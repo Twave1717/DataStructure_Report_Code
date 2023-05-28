@@ -1,8 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "정"
-  given-names: "기용"
+- family-names: "정기용"
 title: "DataStructure_Report_Code"
 version: 1.0.0
 doi: 10.5281/zenodo.1234
